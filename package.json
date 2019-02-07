@@ -25,5 +25,8 @@
   "devDependencies": {
     "jest-dom": "^3.0.1",
     "react-testing-library": "^5.4.4"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/techknohauz/testing-iii.git",
+  "license": "MIT"
 }
