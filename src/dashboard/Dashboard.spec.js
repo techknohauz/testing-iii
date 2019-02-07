@@ -9,4 +9,7 @@ import Dashboard from './Dashboard';
     render(<Dashboard />)
   })
 
- })
+  test('shows the controls and display', () => {
+
+  })
+
