@@ -4,13 +4,9 @@ import 'jest-dom/extend-expect';
 import Dashboard from './Dashboard';
 
  describe('renders without crashing', () => {
-
-   test('renders the Dashboard component', () => {
+   
+  test('shows the controls and display', () => {
     render(<Dashboard />)
   })
-
-  test('shows the controls and display', () => {
-    const component = render(<Dashboard />);
-    
-  })
-
+  
+})
