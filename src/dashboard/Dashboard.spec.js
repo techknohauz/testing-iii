@@ -10,6 +10,7 @@ import Dashboard from './Dashboard';
   })
 
   test('shows the controls and display', () => {
-
+    const component = render(<Dashboard />);
+    
   })
 
